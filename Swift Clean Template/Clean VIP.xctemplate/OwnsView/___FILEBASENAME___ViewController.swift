@@ -19,13 +19,17 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
     // MARK: - Lifecycle
     override func loadView() {
         super.loadView()
-        self.view = superView
+        setup()
     }
     
 	override func viewDidLoad() {
         super.viewDidLoad()
         
     }
+}
+
+// MARK: - I___VARIABLE_productName:identifier___View
+extension ___VARIABLE_productName:identifier___ViewController: I___VARIABLE_productName:identifier___View {
     
 }
 
@@ -34,7 +38,10 @@ extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_produ
     
 }
 
-// MARK: - UI
+// MARK: - Setup
 extension ___VARIABLE_productName:identifier___ViewController {
-    
+    fileprivate func setup() {
+        self.view = superView
+        superView?.delegate = self
+    }
 }

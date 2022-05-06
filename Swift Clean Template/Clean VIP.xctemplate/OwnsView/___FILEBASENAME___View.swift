@@ -9,10 +9,14 @@
 
 import UIKit
 
+protocol I___VARIABLE_productName:identifier___View: AnyObject {
+
+}
+
 class ___VARIABLE_productName:identifier___View: UIView {
     
     // MARK: - Properties
-    
+    weak var delegate: I___VARIABLE_productName:identifier___View?
     
     // MARK: - Initialization
     override init(frame: CGRect) {

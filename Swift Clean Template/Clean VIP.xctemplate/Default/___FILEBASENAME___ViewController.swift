@@ -27,8 +27,3 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
 extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___PresenterOutput {
     
 }
-
-// MARK: - UI
-extension ___VARIABLE_productName:identifier___ViewController {
-    
-}
