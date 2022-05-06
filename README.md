@@ -1,5 +1,5 @@
 # Clean-VIP-Architecture-Template
- Clean Swift (a.k.a VIP) is Uncle Bob’s Clean Architecture applied to iOS projects
+ Swift Clean (a.k.a VIP) is Uncle Bob’s Clean Architecture applied to iOS projects
 
  To learn more about Clean Swift and the VIP cycle, read: http://clean-swift.com/clean-swift-ios-architecture
  
