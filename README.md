@@ -5,7 +5,7 @@
  
  
 # Installation
-1. Download 'Clean Swift' folder from this project
+1. Download 'Swift Clean Template' folder from this project
 2. In Finder Mac app: open folder (⌘+⇧+G): ~/Library/Developer/Xcode/Templates/
 3. Open File Templates and paste the templates.
 4. You have successfully finished!!!
