@@ -13,7 +13,6 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
     
     // MARK: - Properties
     var interactor: ___VARIABLE_productName:identifier___Interactable?
-    var router: ___VARIABLE_productName:identifier___Routing?
     
     // MARK: - Lifecycle
 	override func viewDidLoad() {

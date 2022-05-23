@@ -16,9 +16,9 @@ class ___VARIABLE_productName:identifier___Configurator {
         let interactor = ___VARIABLE_productName:identifier___Interactor()
         let presenter = ___VARIABLE_productName:identifier___Presenter()
         
-        viewController.router = router
         viewController.interactor = interactor
         interactor.presenter = presenter
+        interactor.router = router
         presenter.viewController = viewController
         router.viewController = viewController
         

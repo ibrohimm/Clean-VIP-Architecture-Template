@@ -14,7 +14,6 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
     // MARK: - Properties
     var superView: ___VARIABLE_productName:identifier___View?
     var interactor: ___VARIABLE_productName:identifier___Interactable?
-    var router: ___VARIABLE_productName:identifier___Routing?
     
     // MARK: - Lifecycle
     override func loadView() {

@@ -13,12 +13,11 @@ class ___VARIABLE_productName:identifier___Interactor {
     
     // MARK: - Properties
     var presenter: ___VARIABLE_productName:identifier___Presentable?
+    var router: ___VARIABLE_productName:identifier___Routing?
     
 }
 
 // MARK: - ___VARIABLE_productName:identifier___Interactable
 extension ___VARIABLE_productName:identifier___Interactor: ___VARIABLE_productName:identifier___Interactable {
-    func viewDidLoad() {
-        
-    }
+    
 }
