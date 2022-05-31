@@ -11,7 +11,8 @@ import UIKit
 
 class ___VARIABLE_productName:identifier___Configurator {
     
-    static func configureModule(viewController: ___VARIABLE_productName:identifier___ViewController) -> ___VARIABLE_productName:identifier___ViewController {
+    static func configureModule() -> ___VARIABLE_productName:identifier___ViewController {
+        let viewController = ___VARIABLE_productName:identifier___ViewController()
         let view = ___VARIABLE_productName:identifier___View()
         let router = ___VARIABLE_productName:identifier___Router()
         let interactor = ___VARIABLE_productName:identifier___Interactor()
